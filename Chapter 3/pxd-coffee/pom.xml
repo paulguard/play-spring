@@ -6,12 +6,11 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.1.2.RELEASE</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>geektime.spring</groupId>
-    <artifactId>springbucks</artifactId>
+    <artifactId>pxd-coffeee</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springbucks</name>
+    <name>pxd-coffeee</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

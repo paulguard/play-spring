@@ -1,4 +1,6 @@
-package com.example.entity;
+package com.example.pxdcoffee.model;
+
+import java.io.Serializable;
 
 import javax.persistence.Entity;
 import javax.persistence.Table;
@@ -22,7 +24,7 @@ import org.joda.money.Money;
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString(callSuper = true)
-public class Coffee {
+public class Coffee extends BaseEntity implements Serializable {
 
     private String name;
 

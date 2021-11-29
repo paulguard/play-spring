@@ -1,4 +1,4 @@
-package com.example.entity;
+package com.example.pxdcoffee.model;
 
 import java.io.Serializable;
 import java.util.List;
@@ -16,8 +16,6 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
-import org.hibernate.annotations.Type;
-import org.joda.money.Money;
 
 /**
  * @author by 平向东

@@ -1,4 +1,4 @@
-package com.example.entity;
+package com.example.pxdcoffee.model;
 
 /**
  * @author by 平向东
